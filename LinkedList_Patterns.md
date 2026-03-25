@@ -1,6 +1,6 @@
-# 🔗 Linked List Patterns (LeetCode)
+## 🔗 Linked List Patterns (LeetCode)
 
-## 🧠 REAL CORE PATTERNS (Don’t Overcomplicate)
+# 🧠 REAL CORE PATTERNS (Don’t Overcomplicate)
 
 ---
 
