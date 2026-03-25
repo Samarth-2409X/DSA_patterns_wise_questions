@@ -1,7 +1,5 @@
 ## 🔗 Linked List Patterns (LeetCode)
 
-# 🧠 REAL CORE PATTERNS (Don’t Overcomplicate)
-
 ---
 
 ## 1. 🔁 Reversal Pattern
