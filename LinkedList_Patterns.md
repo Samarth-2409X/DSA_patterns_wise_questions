@@ -1,4 +1,4 @@
-## 🔗 Linked List Patterns (LeetCode)
+# 🔗 Linked List Patterns (LeetCode)
 
 This repository organizes Linked List problems into **core patterns** to help in quick recognition during interviews.
 ---
