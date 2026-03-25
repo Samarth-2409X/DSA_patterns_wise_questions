@@ -1,5 +1,6 @@
 ## 🔗 Linked List Patterns (LeetCode)
 
+This repository organizes Linked List problems into **core patterns** to help in quick recognition during interviews.
 ---
 
 ## 1. 🔁 Reversal Pattern
@@ -74,5 +75,3 @@ Instead of remembering all problems, remember core patterns:
 4. Merge  
 5. Hashing  
 6. Design (Linked List + Map)  
-
----
