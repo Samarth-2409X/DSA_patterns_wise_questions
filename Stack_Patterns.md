@@ -1,4 +1,4 @@
-# 📚 Stack Patterns (Core Concepts)
+# 📚 Stack Patterns
 
 This repository organizes Stack problems into **4 core patterns** to simplify problem recognition and improve problem-solving speed.
 
