@@ -83,10 +83,8 @@
 - ⭐ Encode and Decode Strings  
 
 ### ⚠️ GOOD TO KNOW
-- Design HashSet  
-
-### ❌ SKIP
-- Design HashSet *(if short on time)*  
+- Design HashSet 
+- Design HashSet 
 
 ---
 
