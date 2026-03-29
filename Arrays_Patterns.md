@@ -80,11 +80,12 @@
 
 ### ✅ MUST DO
 - ⭐ Design HashMap  
-- ⭐ Encode and Decode Strings  
+- ⭐ Design HashSet
 
 ### ⚠️ GOOD TO KNOW
-- Design HashSet 
-- Design HashSet 
+
+- Encode and Decode Strings  
+
 
 ---
 
