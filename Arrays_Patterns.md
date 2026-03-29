@@ -1,4 +1,6 @@
-# 🧠 ARRAYS & HASHING — FINAL FILTERED LIST
+# 🧠 ARRAYS & HASHING (LeetCode Structured)
+
+This repository organizes Arrays and Hashing problems into **core patterns** to help in quick recognition during interviews.
 
 ---
 

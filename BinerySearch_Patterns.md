@@ -1,4 +1,4 @@
-# 🔍 Binary Search Patterns (LeetCode Structured)
+# 🔍 Binary Search Patterns 
 
 This repository organizes Binary Search problems into **core patterns** to help in quick recognition during interviews.
 
