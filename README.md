@@ -136,3 +136,10 @@ A structured list of important **Data Structures & Algorithms patterns** for cod
 
 Master these patterns to improve **problem-solving skills and crack coding interviews**.
 
+---
+
+## 👨‍💻 Author
+
+**Samarth**
+GitHub: [Samarth-2409X](https://github.com/Samarth-2409X)
+
