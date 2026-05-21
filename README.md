@@ -4,7 +4,7 @@ A structured list of important **Data Structures & Algorithms patterns** for cod
 
 ---
 
-## 🔹 1. Arrays & Hashing
+## 🔹 1. Arrays & Hashing.
 
 * Frequency count
 * Prefix sum
